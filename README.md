@@ -143,4 +143,4 @@ the backgorund will be dynamic too means it will be having animation .
           }
         }
 
-there are animations also involving change color label texts and dropdowns also.
+there are other animations also involving change color label texts and dropdowns also.
